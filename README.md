@@ -9,7 +9,7 @@
 > Aqui tienes un consejo
 
 > [!IMPORTANT]
-Aqui tienes al muy importante
+Aqui tienes algo muy importante
 
 > [!WARNING]
 Aqui tienes una advertencia
